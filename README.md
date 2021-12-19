@@ -1,2 +1,2 @@
-Java Algorithims
-Update
+JavaScript Algorithims
+
